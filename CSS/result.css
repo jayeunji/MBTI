@@ -8,6 +8,13 @@
   border-radius: 20px;
 }
 
+#shareResult{
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
 .resultName{
   font-size: 20px;
 }
@@ -28,4 +35,18 @@
 .kakao:focus {
   background-color: whitesmoke;
   color: #FEE500;
+}
+
+.gohome {
+  color: white;
+  background-color: pink;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.gohome:hover,
+.gohome:focus {
+  background-color: whitesmoke;
+  color: pink;
 }
