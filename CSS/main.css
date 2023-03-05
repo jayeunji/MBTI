@@ -1,0 +1,12 @@
+/* main section에 해당하는 파일에만 영향이 가는 CSS */
+
+#main{
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+p{
+  font-size: 20px;
+}
