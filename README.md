@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/93428247/223017378-7d21ebae-1e25-449f-abec-afdd07893274.png)
+<img src="[https://user-images.githubusercontent.com/93428247/222999645-26e36557-45cc-412c-8462-95a63fd82f38.png](https://user-images.githubusercontent.com/93428247/223017378-7d21ebae-1e25-449f-abec-afdd07893274.png)" width="60%"></img>
 
 - 🌍 web url : https://jaymbtiproject.netlify.app/
 - 💬 explanation : 십이간지로 알아보는 간단한 연애유형 MBTI 테스트를 만들었습니다. 카카오 공유하기 API를 사용하여 내 결과를 친구에게 쉽게 공유하고, 참여할 수 있습니다. 또한 부트스트랩을 이용해 반응형 웹 사이트로 디자인하였습니다. 😊
