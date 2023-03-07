@@ -16,11 +16,12 @@
 }
 
 .resultName{
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .resultDesc {
   font-size: 20px;
+  width: 80%;
 }
 
 .kakao {

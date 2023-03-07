@@ -2,8 +2,8 @@
 const main = document.querySelector("#main");
 const qna = document.querySelector("#qna");
 const result = document.querySelector("#result");
-const endPoint = 12;
-const select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+const endPoint = 12;  // 질문 개수
+const select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 
 function calResult() {  // 선택한 답변들의 배열(select)에서 가장 많은 값을 가진 인덱스를 반환
   // select 배열에서 가장 큰 값을 구하기
