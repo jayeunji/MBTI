@@ -1,9 +1,8 @@
 /* 파일 전체에 영향이 가는 CSS */
 body {
-  background-color: pink;
+  background-color: #FFE6E6;
 }
 
 * {
   font-family: 'Stylish', sans-serif;
 }
-
